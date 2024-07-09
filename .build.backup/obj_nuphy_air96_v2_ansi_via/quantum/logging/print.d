@@ -1,0 +1,12 @@
+.build/obj_nuphy_air96_v2_ansi_via/quantum/logging/print.o: \
+ quantum/logging/print.c keyboards/nuphy/air96_v2/ansi/config.h \
+ .build/obj_nuphy_air96_v2_ansi_via/src/info_config.h \
+ platforms/chibios/boards/GENERIC_STM32_F072XB/configs/config.h \
+ platforms/chibios/config.h quantum/rgb_matrix/post_config.h \
+ quantum/logging/sendchar.h
+keyboards/nuphy/air96_v2/ansi/config.h:
+.build/obj_nuphy_air96_v2_ansi_via/src/info_config.h:
+platforms/chibios/boards/GENERIC_STM32_F072XB/configs/config.h:
+platforms/chibios/config.h:
+quantum/rgb_matrix/post_config.h:
+quantum/logging/sendchar.h:
