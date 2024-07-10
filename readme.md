@@ -1,5 +1,5 @@
 # What Ive implemented?
-I added `key_down` event handler into sidelights of air96's firmware, so now u can make cool animations for that sticks at corners of the keyboard.<br/><br/>
+I added `key_down` event handler into sidelights of air96's firmware, so now u can make cool animations for that sticks at corners of the keyboard, when you typing something.<br/><br/>
 
 You can try my firmware, by installing it from `build.7z`<br/>
 If you're disappointed my firmware, u can restore the original one, by installing it from `build.backup.7z`.<br/><br/>
